@@ -1,4 +1,5 @@
 {
+  "homepage": "https://rajansolo.github.io/flights",
   "name": "landscape-plane",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@react-three/drei": "9.74.14",
+    "@react-three/drei": "^9.111.2",
     "@react-three/fiber": "8.12.0",
     "@react-three/postprocessing": "2.14.9",
     "react": "^18.3.1",
@@ -25,6 +26,7 @@
     "eslint-plugin-react": "^7.34.3",
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
+    "gh-pages": "^6.1.1",
     "vite": "^5.3.4"
   }
 }
